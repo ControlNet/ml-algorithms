@@ -1,4 +1,4 @@
-# ml-algorithms
+# Machine Learning Algorithms
 
 R implementation of some traditional machine learning algorithms for data analysis.
 
